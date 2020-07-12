@@ -1,2 +1,5 @@
 # hello-world
-My first repositiry
+My first repository
+
+Hello,
+Yash here, I am an amateur ML Engineer
